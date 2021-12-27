@@ -17,7 +17,8 @@ The `api` uri preceed all API endpoints and the following endpoints are currentl
 The `api` uri preceed all API endpoints and the following endpoints are currently available
 * GET `/api/book_analytics`
 
-<b> How to start </b>
+How To Start
+===============
 first open folder Analytics service in vscode  ---> run the command `npm install` --->  run the command `node ./index.js`.
 second open Book service folder in vscode  ---> run the command `npm install` ---> run the command `node ./index.js`.
 
