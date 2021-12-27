@@ -1,4 +1,4 @@
-# REST HUb 2.0
+# Book Microservice System
 
 An microservice system demonstrating simple API implementation with NodeJs, Express and MongoDb and fastMQ
 
