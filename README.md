@@ -1,6 +1,6 @@
 # Book Microservice System
 
-An microservice system demonstrating simple API implementation with NodeJs, Express and MongoDb and fastMQ
+An microservice system demonstrating simple microservices API implementation with NodeJs, Express and MongoDb and fastMQ
 
 
 <b> Book service: </b>
