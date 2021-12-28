@@ -50,7 +50,7 @@ How To Start
 Tech Stack
 ===============
 * fastMQ  - message broker
-* express - api communction
+* express - api communication
 * NodeJs
 * MongoDB
 * Microservice architecture
