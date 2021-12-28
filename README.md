@@ -32,6 +32,7 @@ Notes
 *  `npm install mongoose`
 *  `npm install body-parser`
 *  `npm install fastmq`
+*  `npm install assert`
 
 <b> Book Analysis Service</b>
 *  `npm install body-parser`
