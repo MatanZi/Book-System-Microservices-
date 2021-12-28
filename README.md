@@ -51,5 +51,6 @@ Tech Stack
 ===============
 * fastMQ  - message broker
 * express - api communction
-*  NodeJs
+* NodeJs
+* MongoDB
 * Microservice architecture
