@@ -5,12 +5,12 @@ An microservice system demonstrating simple microservices API implementation wit
 
 <b> Book service: </b>
 The `api` uri preceed all API endpoints and the following endpoints are currently available
-* GET `/api/contacts`
-* POST `/api/contacts`
-* GET `/api/contacts/:isbn`
-* PUT `/api/contacts/:isbn`
-* PATCH `/api/contacts/:isbn`
-* DELETE `/api/contacts/:isbn`
+* GET `/api/books`
+* POST `/api/books`
+* GET `/api/books/:isbn`
+* PUT `/api/books/:isbn`
+* PATCH `/api/books/:isbn`
+* DELETE `/api/books/:isbn`
 
 
 <b> Book analysis service: </b>
@@ -21,6 +21,7 @@ Requirements
 ===============
 *  npm 
 *  visual studio code
+*  Node
 
 
 Notes
